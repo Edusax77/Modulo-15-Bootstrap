@@ -1,0 +1,45 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@1,300&display=swap');
+
+section{
+    
+    padding-bottom: 4rem;
+    padding-top: 4rem;
+}
+
+input, textarea {
+    margin-bottom: 1rem;
+}
+
+body{
+    background-color: #c3dff4;
+}
+
+.card{
+   width: 28%;
+   float:left;
+   margin:10px;
+}
+.class-body{
+    margin: 5px;
+}
+.col{
+     margin-left: 15%; 
+}
+
+.tx{ 
+    color:#06069b;
+    font-size: 40px;
+    margin-left:50px;
+}
+.dif{
+    font-family: 'Work Sans', sans-serif;;
+    font-weight: bolder;
+    color: #040456;
+}
+.letra{
+    font: 1.5em sans-serif;
+}
+#modal-1{
+    padding: 1% 15%;
+}
